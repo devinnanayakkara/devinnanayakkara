@@ -2,7 +2,7 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00F5FF,50:9D4EDD,100:FF2E97&height=220&section=header&text=Devin%20Nanayakkara&fontSize=52&fontColor=FFFFFF&animation=twinkling&fontAlignY=38&desc=Software%20Developer%20%7C%20Sri%20Lanka&descSize=18&descAlignY=58" alt="Animated neon banner displaying Devin Nanayakkara" />
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=2600&pause=1000&color=00F5FF&center=true&vCenter=true&width=700&lines=Full-stack+and+backend+development;From+APIs+to+real+user+experiences;Java%2C+Spring+Boot%2C+React%2C+and+Node.js)](https://github.com/devinnanayakkara)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=2600&pause=1000&color=00F5FF&center=true&vCenter=true&width=700&lines=Full-stack+development;From+APIs+to+real+user+experiences;Java%2C+Spring+Boot%2C+React%2C+and+Node.js)](https://github.com/devinnanayakkara)
 
 </div>
 
