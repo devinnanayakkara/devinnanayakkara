@@ -27,7 +27,7 @@ I build web applications and backend services using Java, Spring Boot, JavaScrip
 
 [![GitHub](https://img.shields.io/badge/GitHub-devinnanayakkara-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/devinnanayakkara)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Devin_Nanayakkara-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/devin-nanayakkara-2a134929b)
-[![Email](https://img.shields.io/badge/Email-Add_email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:devin.20232550@iit.ac.lk)
+[![Email](https://img.shields.io/badge/Email-devin.20232550@iit.ac.lk-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:devin.20232550@iit.ac.lk)
 
 </div>
 
