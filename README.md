@@ -19,7 +19,7 @@
 🛠️ Currently building: A full-stack Project Management & Task Management System with team workflows and rolebased acess    
 🤝 Open to: backend/full-stack collaborations and open-source opportunities 
 
-I build web applications and backend services using Java, Spring Boot, JavaScript, React, Node.js, and Python. My public repositories include a project-management application, ecommerce projects, a products API, and a house-price prediction workflow.
+I build web applications and backend services using Java, Spring Boot, JavaScript, React, Node.js, and Python. My public repositories include a project-management application, ecommerce project, a products API, and a house-price prediction workflow.
 
 </div>
 
