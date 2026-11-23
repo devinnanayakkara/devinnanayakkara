@@ -12,12 +12,12 @@
 
 <div align="center">
 
-📍 **Location:** Sri Lanka  
-💻 **Focus:** Full-stack development, backend systems, and data workflows  
-🚀 **Tagline:** From APIs to real user experiences  
-🌱 **Currently learning:** `[Add current learning focus]`  
-🛠️ **Currently building:** `[Add current project and one-line description]`  
-🤝 **Open to:** `[Add internships, collaboration, or open-source opportunities]`
+📍 Location: Sri Lanka  
+💻 Focus: Full-stack development, backend systems, and data workflows  
+🚀 Tagline: From APIs to real user experiences  
+🌱 Currently learning: Spring Security, JWT authentication, Docker and REST                           API Testing  
+🛠️ Currently building: A full-stack Project Management & Task Management                              System with team workflows and rolebased acess    
+🤝 Open to: backend/full-stack collaborations and open-source opportunities 
 
 I build web applications and backend services using Java, Spring Boot, JavaScript, React, Node.js, and Python. My public repositories include a project-management application, ecommerce projects, a products API, and a house-price prediction workflow.
 
@@ -27,7 +27,7 @@ I build web applications and backend services using Java, Spring Boot, JavaScrip
 
 [![GitHub](https://img.shields.io/badge/GitHub-devinnanayakkara-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/devinnanayakkara)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Devin_Nanayakkara-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/devin-nanayakkara-2a134929b)
-[![Email](https://img.shields.io/badge/Email-Add_email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ADD_YOUR_EMAIL)
+[![Email](https://img.shields.io/badge/Email-Add_email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:devin.20232550@iit.ac.lk)
 
 </div>
 
