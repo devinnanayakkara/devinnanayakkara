@@ -37,27 +37,40 @@ I build web applications and backend services using Java, Spring Boot, JavaScrip
 
 ### <div align="center">Languages</div>
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=java,js,python&theme=dark" alt="Java, JavaScript, and Python" />
+  <a href="https://www.java.com/" target="_blank"><img src="https://skillicons.dev/icons?i=java&theme=dark" alt="Java" /></a>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"><img src="https://skillicons.dev/icons?i=js&theme=dark" alt="JavaScript" /></a>
+  <a href="https://www.python.org/" target="_blank"><img src="https://skillicons.dev/icons?i=python&theme=dark" alt="Python" /></a>
 </div>
 
 ### <div align="center">Frontend</div>
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=react,vite,html,css,tailwind&theme=dark" alt="React, Vite, HTML, CSS, and Tailwind CSS" />
+  <a href="https://react.dev/" target="_blank"><img src="https://skillicons.dev/icons?i=react&theme=dark" alt="React" /></a>
+  <a href="https://vite.dev/" target="_blank"><img src="https://skillicons.dev/icons?i=vite&theme=dark" alt="Vite" /></a>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank"><img src="https://skillicons.dev/icons?i=html&theme=dark" alt="HTML5" /></a>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank"><img src="https://skillicons.dev/icons?i=css&theme=dark" alt="CSS3" /></a>
+  <a href="https://tailwindcss.com/docs" target="_blank"><img src="https://skillicons.dev/icons?i=tailwind&theme=dark" alt="Tailwind CSS" /></a>
 </div>
 
 ### <div align="center">Backend</div>
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=spring,nodejs,express&theme=dark" alt="Spring Boot, Node.js, and Express" />
+  <a href="https://spring.io/projects/spring-boot" target="_blank"><img src="https://skillicons.dev/icons?i=spring&theme=dark" alt="Spring Boot" /></a>
+  <a href="https://nodejs.org/" target="_blank"><img src="https://skillicons.dev/icons?i=nodejs&theme=dark" alt="Node.js" /></a>
+  <a href="https://expressjs.com/" target="_blank"><img src="https://skillicons.dev/icons?i=express&theme=dark" alt="Express.js" /></a>
 </div>
 
 ### <div align="center">Databases</div>
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=mysql,mongodb&theme=dark" alt="MySQL and MongoDB" />
+  <a href="https://www.mysql.com/" target="_blank"><img src="https://skillicons.dev/icons?i=mysql&theme=dark" alt="MySQL" /></a>
+  <a href="https://www.mongodb.com/" target="_blank"><img src="https://skillicons.dev/icons?i=mongodb&theme=dark" alt="MongoDB" /></a>
 </div>
 
 ### <div align="center">Tools</div>
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=git,github,maven,npm,vscode&theme=dark" alt="Git, GitHub, Maven, npm, and Visual Studio Code" />
+  <a href="https://git-scm.com/" target="_blank"><img src="https://skillicons.dev/icons?i=git&theme=dark" alt="Git" /></a>
+  <a href="https://github.com/" target="_blank"><img src="https://skillicons.dev/icons?i=github&theme=dark" alt="GitHub" /></a>
+  <a href="https://maven.apache.org/" target="_blank"><img src="https://skillicons.dev/icons?i=maven&theme=dark" alt="Maven" /></a>
+  <a href="https://www.npmjs.com/" target="_blank"><img src="https://skillicons.dev/icons?i=npm&theme=dark" alt="npm" /></a>
+  <a href="https://code.visualstudio.com/" target="_blank"><img src="https://skillicons.dev/icons?i=vscode&theme=dark" alt="Visual Studio Code" /></a>
 </div>
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:00F5FF,50:9D4EDD,100:FF2E97&height=3&section=header" alt="Neon cyan, purple, and pink divider" />
