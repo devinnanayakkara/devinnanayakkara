@@ -88,6 +88,8 @@ I build web applications and backend services using Java, Spring Boot, JavaScrip
 [![Products API](https://github-readme-stats.vercel.app/api/pin/?username=devinnanayakkara&repo=products-api&theme=tokyonight&hide_border=true)](https://github.com/devinnanayakkara/products-api)
 [![House Price Prediction](https://github-readme-stats.vercel.app/api/pin/?username=devinnanayakkara&repo=house-Price_Prediction&theme=tokyonight&hide_border=true)](https://github.com/devinnanayakkara/house-Price_Prediction)
 
+[![EstateFinder - Property Search](https://github-readme-stats.vercel.app/api/pin/?username=devinnanayakkara&repo=estatefinder-property-search&theme=tokyonight&hide_border=true)](https://github.com/devinnanayakkara/estatefinder-property-search)
+
 </div>
 
 ### <div align="center">Terminal View</div>
